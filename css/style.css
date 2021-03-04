@@ -1,0 +1,775 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* background-color: red; */
+    overflow: hidden;
+    margin-top: 30px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+    
+list-style: none;
+
+/* background-color: green; */
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 50px;
+
+text-transform: uppercase;
+
+color: #626262;
+
+font-size: 16px;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
+.banner img{
+    
+width: 100%;
+}
+.photodiary{
+    width: 85%;
+    margin: 0 auto;
+}
+.photodiary h5{
+    font-family: "Ubuntu", sans-serif;
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-top: 100px;
+
+margin-bottom: 20px;
+}
+.photodiary h1{
+
+color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: "Playfair display", serif;
+}
+.photodiary p{
+font-family: "Playfair display", serif;
+color: #262262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+}
+.photodiary h6{
+font-family: "Ubuntu", sans-serif;
+color: #b4ad9e;
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+font-weight: 500;
+    
+margin-bottom: 80px;
+}
+
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.lifestyle_left{
+    width: 48%;
+    float: left;
+}
+.lifestyle_left img{
+    width: 100%;
+}
+.lifestyle_left h6{
+    font-family: "Ubuntu", sans-serif;
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-top: 15px;
+
+margin-bottom: 20px;
+}
+.lifestyle_left h1{
+    color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: "Playfair display", serif;
+}
+.lifestyle_left p{
+    font-family: "Playfair display", serif;
+color: #262262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+}
+.lifestyle_right{
+    width: 48%;
+    float: right;
+}
+.lifestyle_right img {
+    width: 100%;
+}
+.lifestyle_right h6{
+    font-family: "Ubuntu", sans-serif;
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-top: 15px;
+
+margin-bottom: 20px;
+}
+.lifestyle_right h1{
+    color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: "Playfair display", serif;
+}
+.lifestyle_right p{
+    font-family: "Playfair display", serif;
+color: #262262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+}
+
+.news{
+    background-color: #f0f0f0;
+    margin-bottom: 100px;
+}
+.news_content{
+    width: 28%;
+    margin: auto;
+    padding: 100px 0;
+    position: relative;
+}
+.news_content h1{
+    color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: "Playfair display", serif;
+}
+.news_content input{
+border: none;
+background: transparent;
+width: 100%;
+border-bottom: 1px solid #010101;
+}
+.news_content input:focus{
+    outline: none;
+}
+.news_content input::placeholder{
+    color: #626262;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+}
+.send{
+    position: absolute;
+    bottom: 70px;
+    left: 370px;
+}
+.load{}
+.load button{
+    
+padding: 20px 40px;
+    
+font-size: 16px;
+    
+font-weight: 300;
+    
+margin: 100px 0;
+}
+.footer{
+background-color: #f0f0f0;
+}
+.footer_content{
+
+}
+.terms{
+       
+}
+.terms ul{
+
+}
+.terms ul li{
+
+}
+.social_icon{
+    
+}
+.social_icon ul{
+
+}
+.social_icon ul li{
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    header{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        /* background-color: red; */
+        overflow: hidden;
+        margin-top: 30px;
+    }
+    .logo{
+        width: 20%;
+        float: left;
+    }
+    nav{
+        width: 50%;
+        float: right;
+    }
+    nav ul{
+        
+    list-style: none;
+    
+    /* background-color: green; */
+    
+    overflow: hidden;
+    
+    float: right;
+    }
+    nav ul li{
+    
+    float: left;
+    
+    margin-left: 50px;
+    
+    text-transform: uppercase;
+    
+    color: #626262;
+    
+    font-size: 16px;
+    }
+    .banner{
+        width: 90%;
+        margin-left: 5%;
+        text-align: center;
+    }
+    .banner img{
+        
+    width: 100%;
+    }
+    .photodiary{
+        width: 85%;
+        margin: 0 auto;
+    }
+    .photodiary h5{
+        font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    font-weight: 500;
+    
+    margin-top: 100px;
+    
+    margin-bottom: 20px;
+    }
+    .photodiary h1{
+    
+    color: #626262;
+    
+    text-transform: capitalize;
+    
+    margin-bottom: 20px;
+    font-family: "Playfair display", serif;
+    }
+    .photodiary p{
+    font-family: "Playfair display", serif;
+    color: #262262;
+    
+    font-size: 17px;
+    
+    margin-bottom: 50px;
+    }
+    .photodiary h6{
+    font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+        
+    font-size: 14px;
+        
+    text-transform: uppercase;
+        
+    font-weight: 500;
+        
+    margin-bottom: 80px;
+    }
+    
+    .lifestyle{
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+    }
+    .lifestyle_left{
+        width: 48%;
+        float: left;
+    }
+    .lifestyle_left img{
+        width: 100%;
+    }
+    .lifestyle_left h6{
+        font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    font-weight: 500;
+    
+    margin-top: 15px;
+    
+    margin-bottom: 20px;
+    }
+    .lifestyle_left h1{
+        color: #626262;
+    
+    text-transform: capitalize;
+    
+    margin-bottom: 20px;
+    font-family: "Playfair display", serif;
+    }
+    .lifestyle_left p{
+        font-family: "Playfair display", serif;
+    color: #262262;
+    
+    font-size: 17px;
+    
+    margin-bottom: 50px;
+    }
+    .lifestyle_right{
+        width: 48%;
+        float: right;
+    }
+    .lifestyle_right img {
+        width: 100%;
+    }
+    .lifestyle_right h6{
+        font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    
+    font-size: 14px;
+    
+    text-transform: uppercase;
+    
+    font-weight: 500;
+    
+    margin-top: 15px;
+    
+    margin-bottom: 20px;
+    }
+    .lifestyle_right h1{
+        color: #626262;
+    
+    text-transform: capitalize;
+    
+    margin-bottom: 20px;
+    font-family: "Playfair display", serif;
+    }
+    .lifestyle_right p{
+        font-family: "Playfair display", serif;
+    color: #262262;
+    
+    font-size: 17px;
+    
+    margin-bottom: 50px;
+    }
+    
+    .news{
+        background-color: #f0f0f0;
+        margin-bottom: 100px;
+    }
+    .news_content{
+        width: 28%;
+        margin: auto;
+        padding: 100px 0;
+        position: relative;
+    }
+    .news_content h1{
+        color: #626262;
+    
+    text-transform: capitalize;
+    
+    margin-bottom: 20px;
+    font-family: "Playfair display", serif;
+    }
+    .news_content input{
+    border: none;
+    background: transparent;
+    width: 100%;
+    border-bottom: 1px solid #010101;
+    }
+    .news_content input:focus{
+        outline: none;
+    }
+    .news_content input::placeholder{
+        color: #626262;
+        text-transform: capitalize;
+        font-family: 'Playfair Display', serif;
+    }
+    .send{
+        position: absolute;
+        bottom: 70px;
+        left: 370px;
+    }
+    .load{}
+    .load button{
+        
+    padding: 20px 40px;
+        
+    font-size: 16px;
+        
+    font-weight: 300;
+        
+    margin: 100px 0;
+    }
+    .footer{
+    background-color: #f0f0f0;
+    }
+    .footer_content{
+    
+    }
+    .terms{
+           
+    }
+    .terms ul{
+    
+    }
+    .terms ul li{
+    
+    }
+    .social_icon{
+        
+    }
+    .social_icon ul{
+    
+    }
+    .social_icon ul li{
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        header{
+            width: 90%;
+            margin-left: 5%;
+            margin-right: 5%;
+            /* background-color: red; */
+            overflow: hidden;
+            margin-top: 30px;
+        }
+        .logo{
+            width: 20%;
+            float: left;
+        }
+        nav{
+            width: 50%;
+            float: right;
+        }
+        nav ul{
+            
+        list-style: none;
+        
+        /* background-color: green; */
+        
+        overflow: hidden;
+        
+        float: right;
+        }
+        nav ul li{
+        
+        float: left;
+        
+        margin-left: 50px;
+        
+        text-transform: uppercase;
+        
+        color: #626262;
+        
+        font-size: 16px;
+        }
+        .banner{
+            width: 90%;
+            margin-left: 5%;
+            text-align: center;
+        }
+        .banner img{
+            
+        width: 100%;
+        }
+        .photodiary{
+            width: 85%;
+            margin: 0 auto;
+        }
+        .photodiary h5{
+            font-family: "Ubuntu", sans-serif;
+        color: #b4ad9e;
+        
+        font-size: 14px;
+        
+        text-transform: uppercase;
+        
+        font-weight: 500;
+        
+        margin-top: 100px;
+        
+        margin-bottom: 20px;
+        }
+        .photodiary h1{
+        
+        color: #626262;
+        
+        text-transform: capitalize;
+        
+        margin-bottom: 20px;
+        font-family: "Playfair display", serif;
+        }
+        .photodiary p{
+        font-family: "Playfair display", serif;
+        color: #262262;
+        
+        font-size: 17px;
+        
+        margin-bottom: 50px;
+        }
+        .photodiary h6{
+        font-family: "Ubuntu", sans-serif;
+        color: #b4ad9e;
+            
+        font-size: 14px;
+            
+        text-transform: uppercase;
+            
+        font-weight: 500;
+            
+        margin-bottom: 80px;
+        }
+        
+        .lifestyle{
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .lifestyle_left{
+            width: 48%;
+            float: left;
+        }
+        .lifestyle_left img{
+            width: 100%;
+        }
+        .lifestyle_left h6{
+            font-family: "Ubuntu", sans-serif;
+        color: #b4ad9e;
+        
+        font-size: 14px;
+        
+        text-transform: uppercase;
+        
+        font-weight: 500;
+        
+        margin-top: 15px;
+        
+        margin-bottom: 20px;
+        }
+        .lifestyle_left h1{
+            color: #626262;
+        
+        text-transform: capitalize;
+        
+        margin-bottom: 20px;
+        font-family: "Playfair display", serif;
+        }
+        .lifestyle_left p{
+            font-family: "Playfair display", serif;
+        color: #262262;
+        
+        font-size: 17px;
+        
+        margin-bottom: 50px;
+        }
+        .lifestyle_right{
+            width: 48%;
+            float: right;
+        }
+        .lifestyle_right img {
+            width: 100%;
+        }
+        .lifestyle_right h6{
+            font-family: "Ubuntu", sans-serif;
+        color: #b4ad9e;
+        
+        font-size: 14px;
+        
+        text-transform: uppercase;
+        
+        font-weight: 500;
+        
+        margin-top: 15px;
+        
+        margin-bottom: 20px;
+        }
+        .lifestyle_right h1{
+            color: #626262;
+        
+        text-transform: capitalize;
+        
+        margin-bottom: 20px;
+        font-family: "Playfair display", serif;
+        }
+        .lifestyle_right p{
+            font-family: "Playfair display", serif;
+        color: #262262;
+        
+        font-size: 17px;
+        
+        margin-bottom: 50px;
+        }
+        
+        .news{
+            background-color: #f0f0f0;
+            margin-bottom: 100px;
+        }
+        .news_content{
+            width: 28%;
+            margin: auto;
+            padding: 100px 0;
+            position: relative;
+        }
+        .news_content h1{
+            color: #626262;
+        
+        text-transform: capitalize;
+        
+        margin-bottom: 20px;
+        font-family: "Playfair display", serif;
+        }
+        .news_content input{
+        border: none;
+        background: transparent;
+        width: 100%;
+        border-bottom: 1px solid #010101;
+        }
+        .news_content input:focus{
+            outline: none;
+        }
+        .news_content input::placeholder{
+            color: #626262;
+            text-transform: capitalize;
+            font-family: 'Playfair Display', serif;
+        }
+        .send{
+            position: absolute;
+            bottom: 70px;
+            left: 370px;
+        }
+        .load{
+            text-align: center;
+        }
+        .load button{
+            
+        padding: 20px 40px;
+            
+        font-size: 16px;
+            
+        font-weight: 300;
+            
+        margin: 100px 0;
+        }
+        .footer{
+        background-color: #f0f0f0;
+        }
+        .footer_content{
+            width: 80%;
+
+            margin: auto;
+            
+            overflow: hidden;
+            
+            padding: 30px 0;
+            
+            padding: 3;
+        }
+        .terms{
+            width: 30%;
+
+float: left;
+        }
+        .terms ul{
+        list-style: none;
+        }
+        .terms ul li{
+            color: #000000;
+            text-transform: capitalize;
+            font-family: 'Playfair Display', serif;
+            float: left;
+            margin-right: 10px;
+            font-size: 14px;
+        }
+        .social_icon{
+            width: 30%;
+            float: right;
+        }
+        .social_icon ul{
+        
+        }
+        .social_icon ul li{
+            color: #000000;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    float: left;
+    margin-left: 15px
+        }
+        .social_icon ul li li{
+            background-color: #626262;
+        }
